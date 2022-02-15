@@ -1,0 +1,7 @@
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\Console App Submission\Console App Submission\bin\Debug\Console App Submission.exe.config
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\Console App Submission\Console App Submission\bin\Debug\Console App Submission.exe
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\Console App Submission\Console App Submission\bin\Debug\Console App Submission.pdb
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\Console App Submission\Console App Submission\obj\Debug\Console App Submission.csproj.AssemblyReference.cache
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\Console App Submission\Console App Submission\obj\Debug\Console App Submission.csproj.CoreCompileInputs.cache
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\Console App Submission\Console App Submission\obj\Debug\Console App Submission.exe
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\Console App Submission\Console App Submission\obj\Debug\Console App Submission.pdb
