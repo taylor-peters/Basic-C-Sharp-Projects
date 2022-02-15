@@ -26,7 +26,7 @@ namespace ConsoleApp1
             double personTwoRate = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("How many hours do you work per week?");
             double personTwoHours = Convert.ToDouble(Console.ReadLine());
-            double personTwoSalary = personTwoHours * personTwoRate * 51;
+            double personTwoSalary = personTwoHours * personTwoRate * 52;
 
             // Concatenates string with salary variable
             Console.WriteLine("Person 1's salary is $" + personOneSalary);
