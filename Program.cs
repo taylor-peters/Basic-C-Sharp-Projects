@@ -4,35 +4,43 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace Car_Insurance
 {
     class Program
     {
         static void Main(string[] args)
         {
-            // Since the answers are being read by an instructor, we can skip casting the variables into their required data types
-            Console.WriteLine("The Tech Academy");
-            Console.WriteLine("Student Daily Report");
-            Console.WriteLine("What is your name?");
-            string name = Console.ReadLine();
-            Console.WriteLine("What course are you on?");
-            string course = Console.ReadLine();
-            Console.WriteLine("What page number?");
-            int pageNumber = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Do you need help with anything? Please answer true or false.");
-            string helpNeeded = Console.ReadLine();
-            bool needsHelp = false;
-            if (helpNeeded == "true")
-                needsHelp = true;
-            Console.WriteLine("Were there any positive experiences you'd like to share? Please give specifics");
-            string positives = Console.ReadLine();
-            Console.WriteLine("Is there any other feedback you'd like to provide? Please be specific.");
-            string feedback = Console.ReadLine();
-            Console.WriteLine("How many hours did you study today?");
-            int hoursStudied = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Welcome to my car insurance approval app");
 
-            Console.WriteLine("Thank you for your answers. An Instructor will respond to this shortly. Have a great day!");
+            // Takes user input and converts it to an int
+            Console.WriteLine("What is your age");
+            int age = Convert.ToInt32(Console.ReadLine());
+
+            // Takes user input and converts it to a bool
+            Console.WriteLine("Have you ever had a DUI? Write true or false.");
+            string drunk = Console.ReadLine();
+            bool dui = false;
+            if (drunk == "true")
+                dui = true;
+
+            // Takes user input and converts it to an int
+            Console.WriteLine("How many speeding tickets do you have?");
+            int tickets = Convert.ToInt32(Console.ReadLine());
+
+            bool approved = false;
+
+            // Qualifies users must be older than 15, have no DUI's, and have no more than 3 tickets
+            if ((age > 15) && (dui == false) && (tickets <= 3))
+            {
+                approved = true;
+            }
+                 
+
+            Console.WriteLine("Qualified?");
+            Console.WriteLine(approved);
+
             Console.ReadLine();
+
         }
     }
 }
