@@ -1,0 +1,7 @@
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\Shipping Quote App\Shipping Quote App\bin\Debug\Shipping Quote App.exe.config
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\Shipping Quote App\Shipping Quote App\bin\Debug\Shipping Quote App.exe
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\Shipping Quote App\Shipping Quote App\bin\Debug\Shipping Quote App.pdb
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\Shipping Quote App\Shipping Quote App\obj\Debug\Shipping Quote App.csproj.AssemblyReference.cache
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\Shipping Quote App\Shipping Quote App\obj\Debug\Shipping Quote App.csproj.CoreCompileInputs.cache
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\Shipping Quote App\Shipping Quote App\obj\Debug\Shipping Quote App.exe
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\Shipping Quote App\Shipping Quote App\obj\Debug\Shipping Quote App.pdb
