@@ -19,7 +19,7 @@ namespace ConsoleApp1
             double personOneHours = Convert.ToDouble(Console.ReadLine());
 
             // Calculates annual salary based on weekly hours and hourly rate, multiplied by weeks in a year
-            double personOneSalary = personOneHours * personOneRate * 51; 
+            double personOneSalary = personOneHours * personOneRate * 52; 
 
             Console.WriteLine("Person 2");
             Console.WriteLine("What is your hourly rate?");
