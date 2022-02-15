@@ -1,0 +1,7 @@
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\Car Insurance\Car Insurance\bin\Debug\Car Insurance.exe.config
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\Car Insurance\Car Insurance\bin\Debug\Car Insurance.exe
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\Car Insurance\Car Insurance\bin\Debug\Car Insurance.pdb
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\Car Insurance\Car Insurance\obj\Debug\Car Insurance.csproj.AssemblyReference.cache
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\Car Insurance\Car Insurance\obj\Debug\Car Insurance.csproj.CoreCompileInputs.cache
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\Car Insurance\Car Insurance\obj\Debug\Car Insurance.exe
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\Car Insurance\Car Insurance\obj\Debug\Car Insurance.pdb
