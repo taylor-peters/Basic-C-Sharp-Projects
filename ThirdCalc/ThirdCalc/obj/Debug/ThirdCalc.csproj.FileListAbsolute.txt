@@ -1,0 +1,7 @@
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\ThirdCalc\ThirdCalc\bin\Debug\ThirdCalc.exe.config
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\ThirdCalc\ThirdCalc\bin\Debug\ThirdCalc.exe
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\ThirdCalc\ThirdCalc\bin\Debug\ThirdCalc.pdb
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\ThirdCalc\ThirdCalc\obj\Debug\ThirdCalc.csproj.AssemblyReference.cache
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\ThirdCalc\ThirdCalc\obj\Debug\ThirdCalc.csproj.CoreCompileInputs.cache
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\ThirdCalc\ThirdCalc\obj\Debug\ThirdCalc.exe
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\ThirdCalc\ThirdCalc\obj\Debug\ThirdCalc.pdb
