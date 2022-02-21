@@ -1,0 +1,7 @@
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\SecondCalc\SecondCalc\bin\Debug\SecondCalc.exe.config
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\SecondCalc\SecondCalc\bin\Debug\SecondCalc.exe
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\SecondCalc\SecondCalc\bin\Debug\SecondCalc.pdb
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\SecondCalc\SecondCalc\obj\Debug\SecondCalc.csproj.AssemblyReference.cache
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\SecondCalc\SecondCalc\obj\Debug\SecondCalc.csproj.CoreCompileInputs.cache
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\SecondCalc\SecondCalc\obj\Debug\SecondCalc.exe
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\SecondCalc\SecondCalc\obj\Debug\SecondCalc.pdb
