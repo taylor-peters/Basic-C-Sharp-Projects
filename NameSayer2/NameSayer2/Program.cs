@@ -17,6 +17,10 @@ namespace NameSayer2
             // Calls modified, via the virtual tag, inherited method from abstract superclass
             employee.SayName();
             Console.ReadLine();
+
+            // Polymorphism
+            IQuittable quitter = new Employee();
+            quitter.Quit();
         }
     }
 }
