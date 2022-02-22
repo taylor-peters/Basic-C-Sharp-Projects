@@ -1,0 +1,7 @@
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\FifthCalc\FifthCalc\bin\Debug\FifthCalc.exe.config
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\FifthCalc\FifthCalc\bin\Debug\FifthCalc.exe
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\FifthCalc\FifthCalc\bin\Debug\FifthCalc.pdb
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\FifthCalc\FifthCalc\obj\Debug\FifthCalc.csproj.AssemblyReference.cache
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\FifthCalc\FifthCalc\obj\Debug\FifthCalc.csproj.CoreCompileInputs.cache
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\FifthCalc\FifthCalc\obj\Debug\FifthCalc.exe
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\FifthCalc\FifthCalc\obj\Debug\FifthCalc.pdb
