@@ -1,0 +1,7 @@
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\NameSayer\NameSayer\bin\Debug\NameSayer.exe.config
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\NameSayer\NameSayer\bin\Debug\NameSayer.exe
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\NameSayer\NameSayer\bin\Debug\NameSayer.pdb
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\NameSayer\NameSayer\obj\Debug\NameSayer.csproj.AssemblyReference.cache
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\NameSayer\NameSayer\obj\Debug\NameSayer.csproj.CoreCompileInputs.cache
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\NameSayer\NameSayer\obj\Debug\NameSayer.exe
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\NameSayer\NameSayer\obj\Debug\NameSayer.pdb
