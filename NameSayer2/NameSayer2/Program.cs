@@ -10,12 +10,25 @@ namespace NameSayer2
     {
         static void Main(string[] args)
         {
-            Employee employee = new Employee();
-            employee.firstName = "Sample";
-            employee.lastName = "Student";
+            Employee employeeOne = new Employee();
+            Employee employeeTwo = new Employee();
+
+            employeeOne.firstName = "Sample";
+            employeeOne.lastName = "Student";
+            employeeOne.iD = 123;
+            employeeTwo.iD = 150;
+
+            if (employeeOne == employeeTwo)
+            {
+                Console.WriteLine("Same dude");
+            }
+            else
+            {
+                Console.WriteLine("Different dudes");
+            }
 
             // Calls modified, via the virtual tag, inherited method from abstract superclass
-            employee.SayName();
+            employeeOne.SayName();
             Console.ReadLine();
 
             // Polymorphism
