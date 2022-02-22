@@ -1,0 +1,6 @@
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\AbstractClassSubmission\AbstractClassSubmission\bin\Debug\AbstractClassSubmission.exe.config
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\AbstractClassSubmission\AbstractClassSubmission\bin\Debug\AbstractClassSubmission.exe
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\AbstractClassSubmission\AbstractClassSubmission\bin\Debug\AbstractClassSubmission.pdb
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\AbstractClassSubmission\AbstractClassSubmission\obj\Debug\AbstractClassSubmission.csproj.CoreCompileInputs.cache
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\AbstractClassSubmission\AbstractClassSubmission\obj\Debug\AbstractClassSubmission.exe
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\AbstractClassSubmission\AbstractClassSubmission\obj\Debug\AbstractClassSubmission.pdb
