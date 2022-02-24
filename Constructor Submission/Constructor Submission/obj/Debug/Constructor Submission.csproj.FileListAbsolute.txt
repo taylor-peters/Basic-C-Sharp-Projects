@@ -1,0 +1,7 @@
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\Constructor Submission\Constructor Submission\bin\Debug\Constructor Submission.exe.config
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\Constructor Submission\Constructor Submission\bin\Debug\Constructor Submission.exe
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\Constructor Submission\Constructor Submission\bin\Debug\Constructor Submission.pdb
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\Constructor Submission\Constructor Submission\obj\Debug\Constructor Submission.csproj.AssemblyReference.cache
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\Constructor Submission\Constructor Submission\obj\Debug\Constructor Submission.csproj.CoreCompileInputs.cache
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\Constructor Submission\Constructor Submission\obj\Debug\Constructor Submission.exe
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\Constructor Submission\Constructor Submission\obj\Debug\Constructor Submission.pdb
