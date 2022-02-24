@@ -1,0 +1,7 @@
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\DateTime Submission\DateTime Submission\bin\Debug\DateTime Submission.exe.config
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\DateTime Submission\DateTime Submission\bin\Debug\DateTime Submission.exe
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\DateTime Submission\DateTime Submission\bin\Debug\DateTime Submission.pdb
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\DateTime Submission\DateTime Submission\obj\Debug\DateTime Submission.csproj.AssemblyReference.cache
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\DateTime Submission\DateTime Submission\obj\Debug\DateTime Submission.csproj.CoreCompileInputs.cache
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\DateTime Submission\DateTime Submission\obj\Debug\DateTime Submission.exe
+C:\Users\taylo\OneDrive\Desktop\Basic_C#_Programs\DateTime Submission\DateTime Submission\obj\Debug\DateTime Submission.pdb
