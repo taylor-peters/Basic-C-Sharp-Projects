@@ -1,5 +1,12 @@
-# The-Tech-Academy-Basic-C-Sharp-Projects
+# C# Projects
 
-## Introduction
+These are some small projects I made us C# and .NET Framework
 
-This repo will hold all of my Basic C# Projects
+## Projects:
+
+
+### [Car Insurance Calculator](https://github.com/taylor-peters/CarInsurance2)
+As one of the final assignments for our C# course, we utilized MVC to take in a user's input, caluclate their insurance rate, print the data back to the screen, and create an Admin page to see all database entries.  The app was created using the Database-First approach.
+
+### [Code-First Student App](https://github.com/taylor-peters/Basic-C-Sharp-Projects/tree/main/FinalChallenge)
+Construced a simple, Code-First app that instantiated and populated a new database when run.
