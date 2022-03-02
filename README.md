@@ -1,5 +1,9 @@
-# The-Tech-Academy-Basic-C-Sharp-Projects
+# C# Projects
 
-## Introduction
+These are some small projects I made us C# and .NET Framework
 
-This repo will hold all of my Basic C# Projects
+## Projects:
+
+
+### Car Insurance
+### Code-First Student App
